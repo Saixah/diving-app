@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DivingApp</string>
+    <string name="main_text">HOW LONG CAN I STAY DOWN?</string>
+    <string name="image_shark">shark</string>
+</resources>
